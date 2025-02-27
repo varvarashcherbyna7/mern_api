@@ -1,0 +1,7 @@
+{
+  "exec": "node --loader ts-node/esm index.ts",
+  "watch": [
+    "index.ts",
+    "src/**/*.ts"
+  ]
+}
